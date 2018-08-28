@@ -1,6 +1,8 @@
 "double opt in" process
 gemäß Datenschutz Grundverordnung DSGVO/RGPD
 
+https://github.com/Rocket-Search-Software/double-opt-in
+
 Auf Basis von php, MariaDB, Apapche und Email versand.
 
 Getestet mit php 7.1.5, Maria DB 10.1.23, Apache 2.4.25 und postfix 3.2.0
